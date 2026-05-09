@@ -2,13 +2,13 @@
 
 This repository contains a fully decoupled, production-ready implementation for a Campus Notification System. It features a custom heap-based algorithm for Priority Inbox sorting, a custom logging middleware package, an Express backend, and a responsive Next.js web application.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend**: Next.js (App Router), TypeScript, Material UI (Monochromatic UI design)
 - **Backend**: Node.js, Express, TypeScript
 - **Middleware**: Custom standalone local npm package
 - **Database (Conceptual)**: Designed for PostgreSQL (documented in `notification_system_design.md`)
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Initialize the Logging Middleware
 The system uses a custom `logging_middleware` package to securely transmit telemetry data.
@@ -42,7 +42,7 @@ The system uses a custom `logging_middleware` package to securely transmit telem
 
 ---
 
-## 📸 Evaluation Requirements Checklist
+## Evaluation Requirements Checklist
 
 As per the evaluation guidelines, ensure you complete the following steps locally before submission:
 
@@ -72,7 +72,7 @@ All algorithmic math and logic (`priority_inbox.ts`), system design documentatio
 
 ---
 
-## 🖼 Visual Showcase
+##  Visual Showcase
 
 Below are the successful outputs fulfilling the Full Stack Developer Assessment tracks:
 
